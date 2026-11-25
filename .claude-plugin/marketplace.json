@@ -1,0 +1,15 @@
+{
+  "name": "toolkit",
+  "description": "Toolkit plugins for Claude, starting with VAULT.",
+  "owner": {
+    "name": "Toolkit",
+    "url": "https://toolkit.music"
+  },
+  "plugins": [
+    {
+      "name": "toolkit-vault",
+      "source": "./plugins/toolkit-vault",
+      "description": "Connect VAULT to manage your music catalog, splits, playlists, Inboxes, Briefs, and custom metadata."
+    }
+  ]
+}
