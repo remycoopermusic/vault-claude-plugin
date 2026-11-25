@@ -1,10 +1,10 @@
 {
   "name": "toolkit-vault",
-  "displayName": "VAULT",
+  "displayName": "VAULT by Toolkit",
   "version": "1.1.1",
   "description": "Connect VAULT to manage your catalog, Inboxes, Briefs, and custom metadata. Direct access requires Personal Pro or an eligible Team seat.",
   "author": {
-    "name": "Toolkit",
+    "name": "Toolkit Music",
     "url": "https://toolkit.music"
   },
   "homepage": "https://vault.toolkit.music",
