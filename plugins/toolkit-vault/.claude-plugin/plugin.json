@@ -8,6 +8,8 @@
     "url": "https://toolkit.music"
   },
   "homepage": "https://vault.toolkit.music",
+  "repository": "https://github.com/remycoopermusic/vault-claude-plugin",
+  "documentationUrl": "https://github.com/remycoopermusic/vault-claude-plugin",
   "license": "LicenseRef-Proprietary",
   "privacyPolicyUrl": "https://vault.toolkit.music/legal/privacy",
   "keywords": [
